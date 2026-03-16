@@ -17,6 +17,3 @@ VITE_OPENWEATHER_API_KEY=
 ```
 
 ---
-
-Made with DominicWokorach
-
