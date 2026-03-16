@@ -17,6 +17,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+# cspell:ignore ntvs njsproj
 *.suo
 *.ntvs*
 *.njsproj

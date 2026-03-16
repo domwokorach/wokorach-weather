@@ -7,7 +7,7 @@ const looksLikePlaceholder = (key: string) => {
     normalized.length < 20 ||
     normalized.includes("your_") ||
     normalized.includes("replace") ||
-    normalized === "changeme"
+  normalized === "change-me"
   );
 };
 

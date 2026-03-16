@@ -1,6 +1,7 @@
 # wokorach-weather-api
 
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript 
+Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts,
+Tailwind, Typescript
 
 1: Install dependencies npm install
 
@@ -10,9 +11,9 @@
 
 4: Start the application npm dev run
 
-### Make sure to create a `.env` file with following variables -
+## Make sure to create a `.env` file with following variables
 
-```
+```env
 VITE_OPENWEATHER_API_KEY=
 ```
 
